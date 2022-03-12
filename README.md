@@ -21,7 +21,7 @@ photo et une description associée
 
 # Livrables
 * Un notebook contenant les fonctions permettant le
-prétraitement des données textes et images ainsi que les résultats du clustering (en y
-incluant des représentations graphiques au besoin)
+  prétraitement des données textes et images ainsi que les résultats du clustering (en y
+  incluant des représentations graphiques au besoin)
 * Un support de présentation qui présente la démarche et les résultats du
-clustering
+  clustering
